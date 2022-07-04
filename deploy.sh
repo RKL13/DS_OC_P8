@@ -1,7 +1,7 @@
 sudo apt update
 
 sudo apt install python3 python3-pip unzip
-sudo apt-get install python3-venv
+sudo apt-get install python3-venv openjdk-8-jdk
 
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
