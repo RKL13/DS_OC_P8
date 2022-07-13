@@ -10,3 +10,10 @@ git clone https://github.com/RKL13/DS_OC_P8.git
 cd DS_OC_P8
 source ./deploy.sh
 ```
+
+If already runned once : 
+
+```
+cd DS_OC_P8
+source ./launch.sh
+```
