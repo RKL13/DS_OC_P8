@@ -17,3 +17,7 @@ If already runned once :
 cd DS_OC_P8
 source ./launch.sh
 ```
+
+#### Output of the Pipeline dowloadable here :
+
+https://oc-project-8-pca-csv.s3.eu-west-3.amazonaws.com/pca_csv.csv
